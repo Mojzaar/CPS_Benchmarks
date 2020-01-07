@@ -5,8 +5,8 @@ These files contain the case study models and codes for "Statistical Verificatio
 
 These case studies require installed MATLAB R2019a with Simulink and Simulink coder toolboxes. They have tested on windows 10. <br/>
 The mountain car case study needs the following toolboxes:<br/>
-    * Statistics and Machine Learning Toolbox,<br/>
-    * Reinforcement Learning Toolbox.<br/>
+Markup : * Statistics and Machine Learning Toolbox,<br/>
+         * Reinforcement Learning Toolbox.<br/>
 <br/>
 The Bidepdal case study's dependencies are as follows:<br/>
     - Statistics and Machine Learning Toolbox,<br/>
