@@ -9,6 +9,7 @@ The mountain car case study needs the following toolboxes:<br/>
 - Reinforcement Learning Toolbox.
 <br/>
 The Bidepdal case study's dependencies are as follows:<br/>
+
 - Statistics and Machine Learning Toolbox,
 - Reinforcement Learning Toolbox,
 - Simscape,
